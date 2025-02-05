@@ -86,4 +86,3 @@ The development of the QFCP is a stepping stone toward:
 
 ---
 
-Is there a particular aspect of the Quantum Fusion Core Processor that sparks your curiosity? Perhaps its applications in a specific field or how it compares to other quantum technologies?

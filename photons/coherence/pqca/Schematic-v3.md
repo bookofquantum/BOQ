@@ -40,4 +40,112 @@ Example of a Refined High-Q Cavity:
       └────────────────┘
 
 
+                                    PQCA System
 
+                       ┌───────────────────────────────────────────────────┐
+                       │                                                   │
+                       │  Input Photon (|ψ⟩)  ----------------------------->  │
+                       │                                                   │
+                       │                       ┌─────────────────────┐       │
+                       │                       │ High-Q Cavity        │       │
+                       │                       └─────────────────────┘       │
+                       │                            │                       │
+                       │                            │                       │
+                       │                       ┌─────────────────────┐       │
+                       │                       │ Nonlinear Medium     │       │
+                       │                       └─────────────────────┘       │
+                       │                            │                       │
+                       │                            │                       │
+                       │                       ┌─────────────────────┐       │
+                       │                       │ Active Feedback      │       │
+                       │                       └─────────────────────┘       │
+                       │                            │                       │
+                       │                            │                       │
+                       │                       ┌─────────────────────┐       │
+                       │                       │ QEC Module           │       │
+                       │                       └─────────────────────┘       │
+                       │                            │                       │
+                       │                            │                       │
+                       │  Output Photon (|ψ'⟩) <-----------------------------  │
+                       │                                                   │
+                       └───────────────────────────────────────────────────┘
+
+
+                    High-Q Cavity
+
+        ┌───────────────────────────────┐
+        │                               │
+        │  Input Photon O> ---------------> │
+        │                               │
+        │      |>M1 (R~100%)           │
+        │        │                     │
+        │       =--= (Waveguide)        │
+        │        │                     │
+        │  Phase Shifter <--- Control   │
+        │        │                     │
+        │      |>M2 (R~99%)           │
+        │        │                     │
+        │  Output Photon O> <--------------- │
+        │                               │
+        └───────────────────────────────┘
+
+
+                 Nonlinear Medium
+
+        ┌───────────────────────────────┐
+        │                               │
+        │  Input Photon O> ---------------> │
+        │                               │
+        │       PPLN Crystal           │
+        │        │                     │
+        │ Optical Pump L>--------------> │
+        │        │                     │
+        │      Output Filter           │
+        │        │                     │
+        │ Output Photon O> <--------------- │
+        │                               │
+        └───────────────────────────────┘
+
+                Active Feedback
+
+        ┌───────────────────────────────┐
+        │                               │
+        │ Input Photon O> ---------------> │
+        │                               │
+        │    Photon Detector ---------> │
+        │        │                     │
+        │   Error Signal             │
+        │        │                     │
+        │   FPGA/AI Unit ---------> │
+        │        │                     │
+        │  Phase Modulator <--------- │
+        │        │                     │
+        │Corrected Photon O> <----------- │
+        │                               │
+        └───────────────────────────────┘
+
+                 QEC Module
+
+        ┌───────────────────────────────┐
+        │                               │
+        │ Input Quantum State O> -------> │
+        │                               │
+        │  Redundancy Encoding         │
+        │        │                     │
+        │   Error Detection           │
+        │        │                     │
+        │  Correction Gates           │
+        │        │                     │
+        │Corrected Quantum State O> <--- │
+        │                               │
+        └───────────────────────────────┘
+
+
+Key Improvements:
+ * Overall System Diagram:  Provides a high-level view of the PQCA, showing the flow of the photon through the different modules.
+ * Clearer Module Diagrams: Improved symbols and layout for each module, making the components and their interactions more evident.
+ * Arrows for Signal Flow: Consistent use of arrows to indicate the direction of light propagation and control signals.
+ * Labels and Annotations:  Clear labels for components and signals, enhancing understanding.
+ * Pump Laser Representation:  A dedicated symbol (L>) is used for the pump laser in the nonlinear medium.
+ * Feedback Loop Emphasis: The feedback loop in the Active Feedback module is more visually apparent.
+This refined version should be much clearer and more informative.  It provides a good balance between detail and readability, effectively communicating the key aspects of the PQCA design. Remember that ASCII art has limitations, but this aims to maximize clarity within those constraints.

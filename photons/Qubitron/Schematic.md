@@ -60,5 +60,5 @@ Key Improvements:
 * **Control Separation:** Separated the control logic for each mode, emphasizing their distinct functions.
 * **Simplified Structure:** Streamlined the diagram to focus on the key components and their interactions.
 
-This revised schematic provides a better high-level overview of Qubitron, highlighting the flow of information and control signals in each mode.  It's still a simplification, but it's more informative and easier to understand.  As you mentioned, detailed layout and material specifications would require a more specialized format like GDSII.
+This revised schematic provides a better high-level overview of Qubitron, highlighting the flow of information and control signals in each mode.  It's still a simplification, but it's more informative and easier to understand.  Detailed layout and material specifications would require a more specialized format like GDSII.
 ```

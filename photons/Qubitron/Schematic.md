@@ -1,4 +1,4 @@
-That's a much clearer and more manageable representation of the Qubitron device.  It effectively separates the classical, virtual, and quantum paths and highlights the role of the APD.  Here are some suggestions for further refinement, keeping in mind the limitations of ASCII art:
+Representation of the Qubitron device.  It effectively separates the classical, virtual, and quantum paths and highlights the role of the APD.  Here are some suggestions for further refinement, keeping in mind the limitations of ASCII art:
 
 ```
                                      Qubitron - Photonic Qubit

@@ -1,3 +1,11 @@
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/quantacore-a.jpg "QuantaCore-A")
+
 ** Abstract **
 
 QuantaCore is a hybrid photonic quantum microprocessor that uses 1,348,950 Qubitrons.  QuantaCore represents a significant leap forward in quantum computing, integrating over 1.3 million Qubitrons—hybrid photonic quantum processing units—onto a single, scalable chip. This unprecedented level of integration enables the creation of a powerful and versatile quantum microprocessor capable of executing complex quantum algorithms and simulations. Each Qubitron leverages stimulated Raman adiabatic passage (STIRAP) to create a virtual qubit mode, effectively simulating quantum superposition without the need for an equivalent number of physical qubits. This architecture significantly reduces the resource overhead associated with traditional quantum computing approaches, paving the way for more compact and energy-efficient quantum processors. QuantaCore's massive array of Qubitrons is interconnected through a high-bandwidth, low-latency photonic network, enabling the creation of large-scale virtual quantum registers and the implementation of sophisticated quantum error correction schemes. The hybrid nature of QuantaCore allows for seamless integration with classical computing architectures, facilitating the development of hybrid quantum-classical algorithms for a wide range of applications, including materials science, drug discovery, cryptography, and artificial intelligence. This abstract outlines the key architectural features of QuantaCore, including its Qubitron-based design, photonic interconnects, and hybrid classical-quantum interface. It also discusses the potential impact of QuantaCore on the future of quantum computing and its ability to accelerate progress in various scientific and technological domains.
+
+![QuantaCore-B](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/quantacore-b.jpg "QuantaCore-B")
+
+![QuantaCore-C](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/quantacore-c.jpg "QuantaCore-C")
+
+![QuantaCore-D](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/quantacore-d.jpg "QuantaCore-D")

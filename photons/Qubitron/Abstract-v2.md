@@ -1,3 +1,5 @@
+![Qubitron-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/Qubitron/img/qubitron-a.jpg "Qubitron-A")
+
 ### **Abstract**  
 
 The **Qubitron** is a hybrid quantum processing unit that integrates **stimulated Raman adiabatic passage (STIRAP)** to enable a **virtual qubit mode**, simulating quantum superposition without requiring physical qubits. This architecture leverages **engineered Hamiltonians**, **adiabatic quantum state transfer**, and **precisely controlled pulse sequences** to drive a coherent transition between computational states, effectively creating a software-defined qubit within a photonic or superconducting platform.  
@@ -11,3 +13,5 @@ This work outlines the **pulse dynamics**, **error correction techniques**, and 
 ---
 
 This version strengthens the **technical clarity**, **scalability**, and **real-world impact** of the Qubitron. 🚀
+
+![Qubitron-B](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/Qubitron/img/qubitron-b.jpg "Qubitron-B")

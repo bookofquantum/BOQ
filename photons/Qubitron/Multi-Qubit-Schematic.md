@@ -75,3 +75,5 @@ Let's design a detailed circuit diagram for a specific multi-qubit configuration
 * **Detector Synchronization:**  Precise synchronization of the detectors is needed for accurate measurement of the two-qubit state.
 
 This circuit diagram provides a concrete example of a two-qubit Qubitron using path encoding.  It illustrates the key components and their interactions.  Scaling to more qubits would involve adding more MRRs, MZIs, detectors, and a more complex control system.  The principles, however, remain the same.
+
+![Multi-Qubit-Circuit-Diagram](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/Qubitron/img/two-qubit-qubitron "Multi-Qubit-Circuit-Diagram")

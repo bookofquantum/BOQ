@@ -23,4 +23,6 @@ Detailed **circuit diagram schematic** that includes:
 
 Detailed quantum circuit diagram for the multi-qubit Qubitron system - Visual Schematic 🎛️⚡
 
+![Multi-Qubit-Circuit-Diagram](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/img/Circuit-Diagram.webp "Multi-Qubit-Circuit-Diagram")
+
 🚀

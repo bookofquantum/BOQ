@@ -15,3 +15,21 @@ The techniques mentioned can enable a virtual qubit—as long as the underlying 
 - **STIRAP:** Similarly, using a STIRAP protocol allows you to adiabatically transfer the population into a coherent superposition without relying on probabilistic photon detection. This method preserves coherence and avoids intermediate state losses, which is beneficial when simulating a stable qubit.
 
 In both cases, the critical point is that the virtual mode behaves as a two-level system, which is the hallmark of a qubit. Provided that the Qubitron’s virtual mode has sufficient coherence times and that the system’s Hamiltonian is well-controlled, these methods indeed enable the generation and manipulation of a virtual qubit.
+
+In physics, the **Hamiltonian** is a function or operator that represents the total energy of a system. Here’s a breakdown of what that means in different contexts:
+
+1. **Classical Mechanics:**  
+   In classical physics, the Hamiltonian is a function \( H(q, p) \) where \( q \) represents the generalized coordinates (positions) and \( p \) represents the corresponding momenta. For many systems, it’s given by the sum of the kinetic and potential energies:
+   \[
+   H(q, p) = \text{Kinetic Energy} + \text{Potential Energy}
+   \]
+   It plays a crucial role in determining how the system evolves over time via Hamilton's equations.
+
+2. **Quantum Mechanics:**  
+   In quantum mechanics, the Hamiltonian becomes an operator (usually also denoted by \( H \)) that acts on the state of the system. It governs the time evolution of the quantum state according to the Schrödinger equation:
+   \[
+   i\hbar \frac{\partial}{\partial t} \Psi = H \Psi
+   \]
+   Here, the eigenvalues of the Hamiltonian correspond to the possible measurable energy levels of the system, and its structure determines the dynamics and properties of the quantum state.
+
+In both cases, the Hamiltonian encapsulates all the energetic information of a system, providing a framework for predicting its behavior over time.

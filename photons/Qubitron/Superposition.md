@@ -16,20 +16,54 @@ The techniques mentioned can enable a virtual qubit—as long as the underlying 
 
 In both cases, the critical point is that the virtual mode behaves as a two-level system, which is the hallmark of a qubit. Provided that the Qubitron’s virtual mode has sufficient coherence times and that the system’s Hamiltonian is well-controlled, these methods indeed enable the generation and manipulation of a virtual qubit.
 
-In physics, the **Hamiltonian** is a function or operator that represents the total energy of a system. Here’s a breakdown of what that means in different contexts:
+In physics, the Hamiltonian is a function or operator that represents the total energy of a system. Here’s a breakdown of what that means in different contexts:
 
-1. **Classical Mechanics:**  
-   In classical physics, the Hamiltonian is a function \( H(q, p) \) where \( q \) represents the generalized coordinates (positions) and \( p \) represents the corresponding momenta. For many systems, it’s given by the sum of the kinetic and potential energies:
-   \[
-   H(q, p) = \text{Kinetic Energy} + \text{Potential Energy}
-   \]
-   It plays a crucial role in determining how the system evolves over time via Hamilton's equations.
+Classical Mechanics:
+In classical physics, the Hamiltonian is a function 
+𝐻
+(
+𝑞
+,
+𝑝
+)
+H(q,p) where 
+𝑞
+q represents the generalized coordinates (positions) and 
+𝑝
+p represents the corresponding momenta. For many systems, it’s given by the sum of the kinetic and potential energies:
 
-2. **Quantum Mechanics:**  
-   In quantum mechanics, the Hamiltonian becomes an operator (usually also denoted by \( H \)) that acts on the state of the system. It governs the time evolution of the quantum state according to the Schrödinger equation:
-   \[
-   i\hbar \frac{\partial}{\partial t} \Psi = H \Psi
-   \]
-   Here, the eigenvalues of the Hamiltonian correspond to the possible measurable energy levels of the system, and its structure determines the dynamics and properties of the quantum state.
+𝐻
+(
+𝑞
+,
+𝑝
+)
+=
+Kinetic Energy
++
+Potential Energy
+H(q,p)=Kinetic Energy+Potential Energy
+It plays a crucial role in determining how the system evolves over time via Hamilton's equations.
+
+Quantum Mechanics:
+In quantum mechanics, the Hamiltonian becomes an operator (usually also denoted by 
+𝐻
+H) that acts on the state of the system. It governs the time evolution of the quantum state according to the Schrödinger equation:
+
+𝑖
+ℏ
+∂
+∂
+𝑡
+Ψ
+=
+𝐻
+Ψ
+iℏ 
+∂t
+∂
+​
+ Ψ=HΨ
+Here, the eigenvalues of the Hamiltonian correspond to the possible measurable energy levels of the system, and its structure determines the dynamics and properties of the quantum state.
 
 In both cases, the Hamiltonian encapsulates all the energetic information of a system, providing a framework for predicting its behavior over time.

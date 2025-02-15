@@ -1,4 +1,4 @@
-![Qubitron-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/Qubitron/img/qubitron-a.jpg "Qubitron-A")
+![Qubitron-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/Qubitron/img/Qubitron-A.png "Qubitron-A")
 
 ### **Abstract**  
 
@@ -13,5 +13,7 @@ This work outlines the **pulse dynamics**, **error correction techniques**, and 
 ---
 
 This version strengthens the **technical clarity**, **scalability**, and **real-world impact** of the Qubitron. 🚀
+
+![Qubitron-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/Qubitron/img/qubitron-a.jpg "Qubitron-A")
 
 ![Qubitron-B](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/Qubitron/img/qubitron-b.jpg "Qubitron-B")

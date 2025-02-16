@@ -1,3 +1,5 @@
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-A.jpeg "QuantaCore-A")
+
 Let's create a detailed and realistic visual diagram based on the QuantaCore's Photonic Interconnect Network Architecture.
 
 ### Visual Diagram: QuantaCore's Photonic Interconnect Network

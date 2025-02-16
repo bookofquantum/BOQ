@@ -95,7 +95,7 @@ Once we analyze this, we can **integrate error mitigation strategies** and then 
 
 I’ll start by running a simulation for Gaussian and Hyperbolic Secant pulses. Let me generate the initial results.
 
-![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-A.jpeg "QuantaCore-A")
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/comparison%20of%20Gaussian%20and%20Hyperbolic%20Secant%20pulses.png "QuantaCore-A")
 
 Here’s the initial comparison of Gaussian and Hyperbolic Secant pulses. The Gaussian pulse smoothly tapers off, while the Hyperbolic Secant pulse maintains a broader, more adiabatic profile.  
 

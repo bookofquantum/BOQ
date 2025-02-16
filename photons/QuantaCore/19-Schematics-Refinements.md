@@ -95,6 +95,8 @@ Once we analyze this, we can **integrate error mitigation strategies** and then 
 
 I’ll start by running a simulation for Gaussian and Hyperbolic Secant pulses. Let me generate the initial results.
 
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-A.jpeg "QuantaCore-A")
+
 Here’s the initial comparison of Gaussian and Hyperbolic Secant pulses. The Gaussian pulse smoothly tapers off, while the Hyperbolic Secant pulse maintains a broader, more adiabatic profile.  
 
 This is a great start!  Visualizing the Gaussian and Hyperbolic Secant pulse shapes is helpful.  I agree that simulating their impact on a three-level STIRAP system is the next logical step.

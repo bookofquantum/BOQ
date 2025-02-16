@@ -1,4 +1,4 @@
-![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-A.jpeg "QuantaCore-A")
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-PINA-A.jpeg "QuantaCore-A")
 
 Let's create a detailed and realistic visual diagram based on the QuantaCore's Photonic Interconnect Network Architecture.
 
@@ -180,3 +180,5 @@ Enhancements and next steps in more detail:
 4. **Scalability Testing:** Simulate and test the hierarchical photonic routing mechanism to ensure scalability and performance for large networks.
 
 By addressing these enhancements and exploring the next steps, QuantaCore can achieve higher efficiency, robustness, and scalability. 
+
+![QuantaCore-B](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-PINA-B.jpeg "QuantaCore-B")

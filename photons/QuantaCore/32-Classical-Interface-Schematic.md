@@ -1,3 +1,5 @@
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-CCIA-A.webp "QuantaCore-A")
+
 ```
 +-------------------------------------------------------------------------------------+
 |                   QuantaCore Classical Control and Interface Architecture          |
@@ -81,3 +83,7 @@
 * Physical layout and dimensions
 
 These details would be necessary for a complete engineering design and fabrication of the Classical Control and Interface Architecture.
+
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-CCIA-B.webp "QuantaCore-A")
+
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-CCIA-C.webp "QuantaCore-A")

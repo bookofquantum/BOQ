@@ -1,3 +1,5 @@
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-CCIA-A.jpeg "QuantaCore-A")
+
 # QuantaCore Classical Control and Interface Architecture
 
 ## Overview
@@ -68,3 +70,8 @@ A detailed schematic diagram will visually represent the interactions and flow o
 
 This document serves as a high-level overview. Detailed engineering specifications will follow as development progresses.
 
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-CCIA-B.jpeg "QuantaCore-A")
+
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-CCIA-C.jpeg "QuantaCore-A")
+
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-CCIA-D.jpeg "QuantaCore-A")

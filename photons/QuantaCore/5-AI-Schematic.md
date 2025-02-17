@@ -1,3 +1,5 @@
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-AICL-A.jpeg "QuantaCore-A")
+
 ```
                                      AI Control Layer (Detailed Schematic)
 
@@ -104,3 +106,7 @@
 
 This detailed schematic provides a more concrete picture of the AI control layer and its components.  It highlights the importance of data acquisition, preprocessing, AI model selection, control decision making, and real-time performance.  This level of detail is essential for the next stage of design and implementation.
 
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-AICL-B.jpeg "QuantaCore-A")
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-AICL-C.jpeg "QuantaCore-A")
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-AICL-D.jpeg "QuantaCore-A")
+![QuantaCore-A](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/photons/QuantaCore/img/QuantaCore-AICL-E.jpeg "QuantaCore-A")

@@ -4,7 +4,7 @@
 
 The **Qubitron** is a hybrid quantum processing unit that integrates **stimulated Raman adiabatic passage (STIRAP)** to enable a **virtual qubit mode**, simulating quantum superposition without requiring physical qubits. This architecture leverages **engineered Hamiltonians**, **adiabatic quantum state transfer**, and **precisely controlled pulse sequences** to drive a coherent transition between computational states, effectively creating a software-defined qubit within a photonic or superconducting platform.  
 
-The classical mode provides the proven design of the transistor.  It enables this device to incorporated into any design that requires a classical aspect while allowing it to operate at the speed of light.  This vastly simplifies the creation of a wide variety of electronic compenents that are needed when interfacing with the world of quantum computing.
+The classical mode provides the proven design of the transistor.  It enables this device to be incorporated into any design that requires a classical aspect while allowing it to operate at the speed of light.  This vastly simplifies the creation of a wide variety of electronic compenents that are needed when interfacing with the world of quantum computing.
 
 The virtual qubit mode introduces an additional **superposition output**, facilitating advanced quantum simulations, hybrid quantum-classical computing, and fault-tolerant quantum algorithms. By employing **optimized pulse shaping**, **counterdiabatic control**, and **error-mitigating quantum codes** (e.g., **GKP encoding** for phase error suppression), the Qubitron achieves **high-fidelity virtual qubit states** while minimizing decoherence and timing jitter.
 
